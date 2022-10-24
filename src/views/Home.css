@@ -1,0 +1,26 @@
+.postList {
+    max-width: 600px;
+    margin: auto;
+}
+
+a {
+    color: black;
+}
+
+.btn {
+    background-color: #1b9bf0;
+    cursor: pointer;
+    padding: 10px;
+    border: none;
+    border-radius: 15px;
+    color: white;
+}
+
+.btn:hover {
+    background-color: #00538a;
+    cursor: pointer;
+}
+
+.loadMore {
+    margin: 20px 0;
+}
